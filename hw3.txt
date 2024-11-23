@@ -1,5 +1,5 @@
 Ahoj,
 jak se máš?
-int a = 1 + 2;
+int a = 1 + 2 + 3;
 Jaký je dnes den?
 Dnes je sobota
