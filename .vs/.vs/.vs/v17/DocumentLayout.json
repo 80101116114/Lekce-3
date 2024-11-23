@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.vs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\hw3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\ms-persist.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\index||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\HEAD||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\description||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\COMMIT_EDITMSG||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw3.txt",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\hw3.txt",
+              "RelativeDocumentMoniker": "..\\hw3.txt",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\hw3.txt",
+              "RelativeToolTip": "..\\hw3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-23T19:45:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VSWorkspaceState.json",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.vs\\VSWorkspaceState.json",
+              "RelativeDocumentMoniker": "VSWorkspaceState.json",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.vs\\VSWorkspaceState.json",
+              "RelativeToolTip": "VSWorkspaceState.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T19:45:34.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ms-persist.xml",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\ms-persist.xml",
+              "RelativeDocumentMoniker": "..\\.git\\ms-persist.xml",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\ms-persist.xml",
+              "RelativeToolTip": "..\\.git\\ms-persist.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-23T19:45:32.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\index",
+              "RelativeDocumentMoniker": "..\\.git\\index",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\index",
+              "RelativeToolTip": "..\\.git\\index",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T19:45:32.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HEAD",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\HEAD",
+              "RelativeDocumentMoniker": "..\\.git\\HEAD",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\HEAD",
+              "RelativeToolTip": "..\\.git\\HEAD",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T19:45:28.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "description",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\description",
+              "RelativeDocumentMoniker": "..\\.git\\description",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\description",
+              "RelativeToolTip": "..\\.git\\description",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T19:45:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "config",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\config",
+              "RelativeDocumentMoniker": "..\\.git\\config",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\config",
+              "RelativeToolTip": "..\\.git\\config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T19:45:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "COMMIT_EDITMSG",
+              "DocumentMoniker": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\COMMIT_EDITMSG",
+              "RelativeDocumentMoniker": "..\\.git\\COMMIT_EDITMSG",
+              "ToolTip": "C:\\Users\\Petr\\Desktop\\Lekce-3\\.git\\COMMIT_EDITMSG",
+              "RelativeToolTip": "..\\.git\\COMMIT_EDITMSG",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T19:45:28.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
